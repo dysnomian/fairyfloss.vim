@@ -55,7 +55,7 @@ hi Visual guifg=NONE guibg=#49483e gui=NONE
 hi WarningMsg guifg=#f8f8f0 guibg=#f92672 gui=NONE
 hi WildMenu guifg=#5a5475 guibg=#c2ffdf gui=bold
 
-hi Comment guifg=#e6c000 guibg=NONE gui=NONE
+hi Comment guifg=#e6c000 guibg=NONE gui=italic
 
 hi Constant guifg=#c5a3ff guibg=NONE gui=NONE
 hi String guifg=#ffea00 guibg=NONE gui=NONE
@@ -126,7 +126,7 @@ hi rubyRailsRenderMethod guifg=#c2ffdf guibg=NONE gui=NONE
 hi rubyRailsMethod guifg=#c2ffdf guibg=NONE gui=NONE
 
 hi erubyDelimiter guifg=NONE guibg=NONE gui=NONE
-hi erubyComment guifg=#e6c000 guibg=NONE gui=NONE
+hi erubyComment guifg=#e6c000 guibg=NONE gui=italic
 hi erubyRailsMethod guifg=#c2ffdf guibg=NONE gui=NONE
 
 hi htmlTag guifg=NONE guibg=NONE gui=NONE
