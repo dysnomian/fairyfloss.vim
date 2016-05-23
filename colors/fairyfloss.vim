@@ -7,7 +7,7 @@ endif
 
 let g:colors_name = 'fairyfloss'
 
-"hi ColorColumn
+hi ColorColumn guifg=NONE guibg=#c5a3ff gui=bold
 "hi Conceal
 "hi Cursor
 hi CursorColumn guifg=NONE guibg=#8076aa gui=NONE
