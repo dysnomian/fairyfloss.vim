@@ -99,7 +99,7 @@ hi Underlined guifg=NONE guibg=NONE gui=underline
 
 hi Error guifg=#f8f8f0 guibg=#f92672 gui=NONE
 
-hi Todo guifg=#e6c000 guibg=NONE gui=inverse,bold
+hi Todo guifg=#e6c000 guibg=NONE gui=inverse,bold,italic
 
 hi rubyClass guifg=#ffb8d1 guibg=NONE gui=NONE
 hi rubyFunction guifg=#fff352 guibg=NONE gui=NONE
